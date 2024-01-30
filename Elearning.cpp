@@ -12,6 +12,11 @@ void enrollment()
 {
     cout<<"this function will perform the enrollment";
 }
+void discussion()
+
+    {
+        cout<<"this funstion will provide the facility of discussion with different peoples";
+    }
 int main()
 {
  
