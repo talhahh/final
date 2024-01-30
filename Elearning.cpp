@@ -8,6 +8,10 @@ void course()
 {
     cout<<"COurse managment is done";
 }
+void enrollment()
+{
+    cout<<"this function will perform the enrollment";
+}
 int main()
 {
  
